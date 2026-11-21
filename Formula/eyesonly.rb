@@ -1,8 +1,8 @@
 class Eyesonly < Formula
   desc "Per-user access control for git: private files, private branches, built-in secrets"
   homepage "https://jagritvats.github.io/eyesonly/"
-  url "https://registry.npmjs.org/eyesonly/-/eyesonly-0.3.1.tgz"
-  sha256 "5481d137ca534a6639bc05cf3e39d08e415c089606d92e418049b3ad9f3955b2"
+  url "https://registry.npmjs.org/eyesonly/-/eyesonly-0.4.0.tgz"
+  sha256 "7fce0e0a133fbdd42de22dab6e44612f0d701b4d9654fb9a7c08cdfc7c12b343"
   license "MIT"
 
   depends_on "node"
